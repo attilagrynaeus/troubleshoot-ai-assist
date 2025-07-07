@@ -1,4 +1,3 @@
-"""Very lightweight smoke test to check that the agent round‑trips."""
 
 from app.agent import ask
 
