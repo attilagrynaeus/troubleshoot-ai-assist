@@ -1,5 +1,5 @@
 """
-paste directly from your clipboard or text files
+StackTrace paste directly from your clipboard or text files
 """
 
 import sys
