@@ -109,13 +109,6 @@ flowchart TD
 * **Plug-and-play knowledge base** — swap the Markdown input and instantly get a Spring Boot-, Kubernetes-, or any other domain assistant.
 * Clean modules (`ingest | embed | agent | api`) make porting to new domains trivial.
 
----
-
-## 🎯 Interview Value
-
-* Shows **measurable impact** (troubleshooting → minutes).
-* Demonstrates a modern AI stack in practice: GPT-4o, embeddings, RAG.
-* Great talking point for architecture, DevOps, and prompt-engineering questions.
 
 ---
 
